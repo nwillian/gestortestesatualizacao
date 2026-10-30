@@ -1,0 +1,246 @@
+[
+  {
+    "versao": "1.5.7",
+    "data": "30/10/2026",
+    "melhorias": [
+      "Melhoria na rotina de atualização automática."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.5.6",
+    "data": "30/10/2026",
+    "melhorias": [
+      "Melhoria na rotina de atualização automática."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.5.5",
+    "data": "30/10/2026",
+    "melhorias": [
+      "Captura de tela: Alteração da opção Pixelar para Embaçar."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.5.4",
+    "data": "28/10/2026",
+    "melhorias": [
+      "Print: o cursor em forma de \"+\" agora é branco, com um contorno escuro, e aparece bem sobre a tela escurecida. Vale também para a seleção de região do Gravador."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.5.3",
+    "data": "27/10/2026",
+    "melhorias": [
+      "Melhorias na rotina de atualização: o sistema sempre atualiza para a versão mais recente, mesmo que o aviso tenha aparecido há dias, e deixa os dados prontos ao abrir a versão nova, vinda de qualquer versão anterior, pela atualização automática ou pelo instalador."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.5.2",
+    "data": "27/10/2026",
+    "melhorias": [
+      "Melhorias na rotina de atualização: o sistema sempre atualiza para a versão mais recente, mesmo que o aviso tenha aparecido há dias, e deixa os dados prontos ao abrir a versão nova, vinda de qualquer versão anterior, pela atualização automática ou pelo instalador."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.5.1",
+    "data": "27/10/2026",
+    "melhorias": [
+      "Print: ao capturar, a tela toda fica escurecida e só a área selecionada aparece na cor normal; a janela sob o mouse recebe apenas um contorno.",
+      "Print: a barra de ferramentas sempre abre no cursor (Selecionar e mover), em vez da última ferramenta usada."
+    ],
+    "correcoes": [
+      "Correção visual: ao redimensionar a janela pela borda, não aparece mais uma faixa clara ao lado da barra superior; e, ao minimizar e voltar com a janela maximizada, não fica mais uma linha embaixo do menu lateral."
+    ]
+  },
+  {
+    "versao": "1.5.0",
+    "data": "23/10/2026",
+    "melhorias": [
+      "Nova tela FTP.",
+      "Ao ativar um cartório, o arquivo protesto.ini do Protesto for Windows também é atualizado (banco do protesto, servidor e banco de dados), quando existir."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.4.2",
+    "data": "20/10/2026",
+    "melhorias": [
+      "Melhoria na rotina de atualização."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.4.1",
+    "data": "20/10/2026",
+    "melhorias": [
+      "Melhoria na rotina de atualização."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.4.0",
+    "data": "20/10/2026",
+    "melhorias": [
+      "Botão Ajustar Ambiente no cadastro do cartório, que executa no banco de dados o comando configurado.",
+      "Preparar Banco de dados nas configurações, para definir esse comando."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.3.0",
+    "data": "20/10/2026",
+    "melhorias": [
+      "Campos Hash e HashG no cadastro do cartório, gravados no arquivo bridge.",
+      "Hash padrão nas configurações, sugerido em novos cadastros."
+    ],
+    "correcoes": [
+      "Faixa cinza ao expandir o menu lateral.",
+      "Menus do print sobrepostos ou distantes em seleções pequenas."
+    ]
+  },
+  {
+    "versao": "1.2.2",
+    "data": "16/10/2026",
+    "melhorias": [
+      "Atalho para gravação automática de vídeos.",
+      "Melhoria no desempenho da captura de telas.",
+      "Backup e restauração dos cartórios cadastrados."
+    ],
+    "correcoes": [
+      "Correção na captura de tela para o menu não sobrescrever a seleção da captura de tela.",
+      "Print e Ctrl + Print não funcionavam em alguns programas abertos como administrador."
+    ]
+  },
+  {
+    "versao": "1.2.1",
+    "data": "09/10/2026",
+    "melhorias": [
+      "O botão \"Sair\" foi retirado do menu lateral. Para encerrar o sistema, use o ícone da bandeja (botão direito → Sair)."
+    ],
+    "correcoes": [
+      "Captura de Tela: com a área selecionada perto da borda de uma tela, a barra de ferramentas e os botões de copiar e salvar passavam para o outro monitor. Agora ficam sempre na mesma tela da seleção."
+    ]
+  },
+  {
+    "versao": "1.2.0",
+    "data": "09/10/2026",
+    "melhorias": [
+      "Nova página \"Gravador\" (beta): grava a tela em vídeo, com ou sem áudio.",
+      "Nova página \"Captura de Tela\" (beta): print com a tecla Print Screen e editor para marcar e anotar a imagem antes de copiar ou salvar.",
+      "A página \"Tutorial\" passa a se chamar \"Manual do Sistema\", com o passo a passo das novas páginas.",
+      "Menu do botão direito do mouse simplificado: nos campos de texto, só Cortar, Copiar, Colar e Selecionar tudo."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.1.2",
+    "data": "07/10/2026",
+    "melhorias": [
+      "Página \"Tutorial\": manual interno com a explicação de cada função do sistema, com imagens e animações das rotinas."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.1.1",
+    "data": "07/10/2026",
+    "melhorias": [
+      "Botão \"Validar bancos\" na tela de Cartórios: confere, um cartório por vez, se o banco SQL existe no servidor cadastrado e se os bancos CIVIL e PROTESTO existem no caminho informado. Cada cartório recebe uma bolinha verde (tudo certo) ou vermelha (algum banco não encontrado, com o motivo ao passar o mouse)."
+    ],
+    "correcoes": [
+      "Ao redimensionar a janela pela borda, todo o texto do sistema podia ficar selecionado.",
+      "Endereços dos bancos CIVIL e PROTESTO informados como caminho de rede (\\\\servidor\\C\\...) passam a ser convertidos automaticamente para o formato do Firebird (servidor:C:\\...).",
+      "Na tela de Serviços, a mensagem com o resultado de iniciar, reiniciar ou parar um serviço não altera mais o tamanho do cartão nem a posição dos serviços na tela."
+    ]
+  },
+  {
+    "versao": "1.1.0",
+    "data": "07/10/2026",
+    "melhorias": [
+      "Cadastro e edição de cartórios em pop-up, sem sair da lista. O botão \"Novo cartório\" fica no topo da lista.",
+      "O sistema inicia junto com o Windows, em segundo plano na bandeja, com o atalho de formatação já ativo.",
+      "Opção \"Iniciar com o Windows\" em Configurações.",
+      "Página \"Serviços\", para iniciar, reiniciar e parar serviços importantes do Windows (SQL Server, Firebird, selos e outros), com cadastro de novos serviços.",
+      "Página \"Auxiliar de Cadastro\", que gera pessoas para testes a partir do banco do cartório ativo (ou de uma API), com filtro por sexo e cópia rápida dos dados."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.0.10",
+    "data": "06/10/2026",
+    "melhorias": [
+      "Melhorias de desempenho.",
+      "Armazenamento dos dados mais seguro, com migração automática dos cadastros existentes."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.0.9",
+    "data": "05/10/2026",
+    "melhorias": [
+      "Botão para alternar a exibição dos cartórios entre cards e lista (tabela com colunas)."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.0.8",
+    "data": "05/10/2026",
+    "melhorias": [
+      "Página \"Sobre\", acessada em Configurações > Sobre > Ver detalhes, com o histórico de melhorias e correções de cada versão."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.0.7",
+    "data": "05/10/2026",
+    "melhorias": [
+      "Dica personalizada nos itens do menu lateral recolhido, no tema do sistema e exibida à direita do ícone."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.0.6",
+    "data": "05/10/2026",
+    "melhorias": [
+      "Seção \"Atualizações\" em Configurações, com a versão atual e o botão \"Verificar atualizações\".",
+      "Etiqueta \"HOMOLOGAÇÃO\" na versão de testes, para diferenciá-la da versão instalada."
+    ],
+    "correcoes": []
+  },
+  {
+    "versao": "1.0.5",
+    "data": "05/10/2026",
+    "titulo": "Gestor de Acessos passa a se chamar Gestor de Testes",
+    "melhorias": [
+      "Novo nome do sistema e novo ícone de banco de dados.",
+      "Página de Configurações.",
+      "Formatação de comandos SQL em qualquer programa pelo atalho Ctrl+Shift+Alt+F, que pode ser alterado.",
+      "Aviso flutuante \"Formatando comando...\" durante a formatação.",
+      "O sistema continua na bandeja do Windows ao ser fechado, com as opções Abrir e Sair.",
+      "Botão \"Sair\" no menu lateral para encerrar o sistema.",
+      "Atualização automática, com progresso do download, opção de interromper e \"Me lembre mais tarde\".",
+      "Versão exibida na tela de abertura."
+    ],
+    "correcoes": [
+      "Contorno cinza que piscava nas opções do menu lateral ao trocar de tela."
+    ]
+  },
+  {
+    "versao": "1.0.0 a 1.0.4",
+    "data": "17/09/2026 a 18/09/2026",
+    "titulo": "Versão base (Gestor de Acessos)",
+    "melhorias": [
+      "Cadastro, edição e exclusão de cartórios.",
+      "Ativação do cartório com um clique, atualizando o bridge.oln e reiniciando o serviço de selos.",
+      "Favoritos.",
+      "Agrupamento e ordenação por servidor, estado e ordem alfabética.",
+      "Menu lateral recolhível."
+    ],
+    "correcoes": []
+  }
+]
